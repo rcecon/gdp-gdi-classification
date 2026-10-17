@@ -1,0 +1,6 @@
+{
+  "name": "HKDSE Economics GDP & GNI Classification Master",
+  "description": "An interactive practice platform for Hong Kong secondary school Economics students to master GDP vs GNI classification and adjustments without calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
